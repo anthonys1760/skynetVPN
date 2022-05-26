@@ -1,1 +1,1 @@
-## SkynetVPN, a theme Anthony Smith
+## SkynetVPN, a theme by Anthony Smith
